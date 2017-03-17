@@ -4,3 +4,5 @@ Une deuxième modification
 Un troisieme
 Test ne sera pas pris en compte
 Bug fix
+Commence la nouvelle fonctionnalité
+Termine la fonctionnalité
